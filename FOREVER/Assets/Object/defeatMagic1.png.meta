@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 6c9ebe7b4f142034b948d3dc11be7556
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: defeatMagic1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d565caae0fbf7fc46966723fdb8ecb8f
+      internalID: -1483021062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa0e671bfa7a034fb5687fa156e99b2
+      internalID: -1925475067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690857901db19a47bd47614d9f4e663
+      internalID: -768021050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46fa3db2292e4448c47220cc11ccce
+      internalID: -2062524373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52136807a9eee42b207cf0633cdb8a
+      internalID: 665377700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ce6a80824d944090ce25c6015c629
+      internalID: 1329731518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44759d0ef20bade42b8d4e8baf1446b2
+      internalID: 1018392755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 413
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88902360f756694486800dc3d84dcca
+      internalID: 269629918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540b5264c9bdbc43a9e59e891f65a86
+      internalID: 1556546984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ee40567b5cd344bd08ae9af0fa5b6
+      internalID: -511027468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78481422f5a02f04781345afb6f18aed
+      internalID: 756462332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1bdebb5170484aa9cfadaf953bf1d
+      internalID: -828800044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe344546a1e124691267c896874820
+      internalID: 1535632232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053df9b9ff9e1074fa98f1eb8a8ebd4e
+      internalID: 1982485300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a17a61a1b5634b8510f14b5366cab
+      internalID: -357300756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 354
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9751f0fd4ddfe7c4e9284d3b82c98b97
+      internalID: -1640804625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be35469dfe04341458a84b42784f9d4f
+      internalID: 2136888902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f4d788fe9063b4f8fb27bfb4071520
+      internalID: 1824241925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a3813ef47dbb41924dad4d551005f
+      internalID: -1626591458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747524d751f8f4498492ed145e1f22f
+      internalID: 788822169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c9a85c7e414a04bb252bb4aa58ff4e
+      internalID: -189321816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de38e6e919107b41a3f6f8aad9ef151
+      internalID: 2019882280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2bf9f7762a3a42a0f11cf91a7e5f3
+      internalID: 1679640069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 295
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7cdfebc870f9c4189611ebd51a77e6
+      internalID: 1685730661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b2a6555b4c2834f8dff71b77d455e2
+      internalID: -1691919060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc3fec405952648b9a6e97628dc508
+      internalID: 156902208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33517466cdf934c846a8ec529b7462
+      internalID: 1965587197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0eeb475c3390b468c75cbd851f1538
+      internalID: 1536070149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba668065addce934b8dde87b7e7fc03a
+      internalID: -1796990251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c2d356388de948ad9c3588c492eb6
+      internalID: -932521510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a49c32976bdd04fb51e39f34560599
+      internalID: -1283263834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 236
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a8831a0fb15f4a997a551b5533e44
+      internalID: -675663336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34dce6a279e7fa40b5d390775e67196
+      internalID: -561045623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44c602bb03ac74c9c311778699c941
+      internalID: -1740678363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31152a86c9fcd654380eb42f0861e066
+      internalID: -1819733892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f55a3dba00f7e498e282e1d349b1ab
+      internalID: 21709304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429fe3b260e8e1e4791c7f714c5c7d70
+      internalID: 927560029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3331f49657595b34a841f112048ffbfd
+      internalID: -552941584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8abdc070a0aba4da000272ff8b3333
+      internalID: -884093214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 177
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0deef450ca42849a046c8d0723c0c1
+      internalID: 1285959570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78747c94a79244ca07a2f1d92c6e29
+      internalID: -1765319595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f020ca5c1b9f84cb7f19bb2b6b216a
+      internalID: -1120370773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729188cfebcb8943b2649eb79d2cfc2
+      internalID: -444545987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922e23e2689ece4ba015dc704b1a08c
+      internalID: 639241976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c2fdac4a1b1a4abe6187bf54108c8
+      internalID: 1856141753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5374f290750964a836b4d0bb9dd5c0
+      internalID: -2134906791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defeatMagic1_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 118
+        width: 44
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a96ad0083767a46988ef37df4d5937
+      internalID: -1355761677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      defeatMagic1_5: 1329731518
+      defeatMagic1_38: -884093214
+      defeatMagic1_2: -768021050
+      defeatMagic1_3: -2062524373
+      defeatMagic1_11: -828800044
+      defeatMagic1_18: -1626591458
+      defeatMagic1_1: -1925475067
+      defeatMagic1_39: 1285959570
+      defeatMagic1_20: -189321816
+      defeatMagic1_10: 756462332
+      defeatMagic1_7: 269629918
+      defeatMagic1_13: 1982485300
+      defeatMagic1_12: 1535632232
+      defeatMagic1_26: 1965587197
+      defeatMagic1_40: -1765319595
+      defeatMagic1_19: 788822169
+      defeatMagic1_32: -561045623
+      defeatMagic1_43: 639241976
+      defeatMagic1_4: 665377700
+      defeatMagic1_42: -444545987
+      defeatMagic1_28: -1796990251
+      defeatMagic1_15: -1640804625
+      defeatMagic1_23: 1685730661
+      defeatMagic1_46: -1355761677
+      defeatMagic1_45: -2134906791
+      defeatMagic1_8: 1556546984
+      defeatMagic1_24: -1691919060
+      defeatMagic1_41: -1120370773
+      defeatMagic1_25: 156902208
+      defeatMagic1_21: 2019882280
+      defeatMagic1_29: -932521510
+      defeatMagic1_27: 1536070149
+      defeatMagic1_36: 927560029
+      defeatMagic1_37: -552941584
+      defeatMagic1_22: 1679640069
+      defeatMagic1_31: -675663336
+      defeatMagic1_33: -1740678363
+      defeatMagic1_44: 1856141753
+      defeatMagic1_9: -511027468
+      defeatMagic1_30: -1283263834
+      defeatMagic1_34: -1819733892
+      defeatMagic1_16: 2136888902
+      defeatMagic1_17: 1824241925
+      defeatMagic1_6: 1018392755
+      defeatMagic1_0: -1483021062
+      defeatMagic1_35: 21709304
+      defeatMagic1_14: -357300756
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
